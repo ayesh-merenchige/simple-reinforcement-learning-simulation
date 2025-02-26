@@ -34,7 +34,7 @@ The agent uses Q-learning, a model-free reinforcement learning algorithm, to lea
 - **Learning Parameters**: Adjust `alpha`, `gamma`, and `epsilon` to fine-tune the agent's learning behavior.
 
 ## Screenshots
-![Maze Simulation](screenshot.png) *(Add a screenshot of the simulation here)*
+![Maze Simulation](screenshot.png)
 
 ## Code Overview
 ```python
@@ -47,9 +47,6 @@ The agent uses Q-learning, a model-free reinforcement learning algorithm, to lea
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
