@@ -21,7 +21,7 @@ The agent uses Q-learning, a model-free reinforcement learning algorithm, to lea
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/maze-rl-simulation.git
+   git clone https://github.com/ayesh-merenchige/simple-reinforcement-learning-simulation
    cd simple-reinforcement-learning-simulation
    ```
 2. Run the simulation:
